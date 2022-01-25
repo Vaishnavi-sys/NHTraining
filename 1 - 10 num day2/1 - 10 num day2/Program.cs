@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace print_1_to_10_num
+namespace _1___10_num_day2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i <= 10; i++)
-                Console.WriteLine(i);
-            Console.ReadLine(); 
+            int i;
+            for(i = 1; i<=10;i++)
+            {
+                Console.WriteLine(i);   
+            }
+            Console.ReadLine();
         }
     }
 }

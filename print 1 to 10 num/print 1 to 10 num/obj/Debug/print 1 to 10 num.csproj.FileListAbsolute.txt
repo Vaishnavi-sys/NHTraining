@@ -1,8 +1,0 @@
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\bin\Debug\print 1 to 10 num.exe.config
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\bin\Debug\print 1 to 10 num.exe
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\bin\Debug\print 1 to 10 num.pdb
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\obj\Debug\print 1 to 10 num.csproj.AssemblyReference.cache
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\obj\Debug\print 1 to 10 num.csproj.SuggestedBindingRedirects.cache
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\obj\Debug\print 1 to 10 num.csproj.CoreCompileInputs.cache
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\obj\Debug\print 1 to 10 num.exe
-F:\NH\DotNetProjects\print 1 to 10 num\print 1 to 10 num\obj\Debug\print 1 to 10 num.pdb

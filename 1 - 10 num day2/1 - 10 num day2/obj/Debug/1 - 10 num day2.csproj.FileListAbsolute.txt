@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\bin\Debug\1 - 10 num day2.exe.config
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\bin\Debug\1 - 10 num day2.exe
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\bin\Debug\1 - 10 num day2.pdb
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\obj\Debug\1 - 10 num day2.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\obj\Debug\1 - 10 num day2.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\obj\Debug\1 - 10 num day2.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\obj\Debug\1 - 10 num day2.exe
+F:\NH\DotNetProjects\1 - 10 num day2\1 - 10 num day2\obj\Debug\1 - 10 num day2.pdb

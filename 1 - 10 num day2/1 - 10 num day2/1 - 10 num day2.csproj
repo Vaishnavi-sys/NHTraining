@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C17BE733-A051-4BD3-A4E5-3070D9E5ECBF}</ProjectGuid>
+    <ProjectGuid>{3DC0A953-75E5-42B4-80B4-0E488CDAD531}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>print_1_to_10_num</RootNamespace>
-    <AssemblyName>print 1 to 10 num</AssemblyName>
+    <RootNamespace>_1___10_num_day2</RootNamespace>
+    <AssemblyName>1 - 10 num day2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

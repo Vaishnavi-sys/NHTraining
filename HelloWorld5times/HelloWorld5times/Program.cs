@@ -8,7 +8,7 @@ namespace HelloWorld5times
         {
             int i;
             for (i = 1; i <= 5; i++)
-                Console.WriteLine("Hello");
+                Console.WriteLine("HelloWorld");
             Console.ReadLine();
 
         }
