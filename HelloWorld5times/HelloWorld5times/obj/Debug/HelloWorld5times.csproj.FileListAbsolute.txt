@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\obj\Debug\HelloWorld5times.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\obj\Debug\HelloWorld5times.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\obj\Debug\HelloWorld5times.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\bin\Debug\HelloWorld5times.exe.config
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\bin\Debug\HelloWorld5times.exe
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\bin\Debug\HelloWorld5times.pdb
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\obj\Debug\HelloWorld5times.exe
+F:\NH\DotNetProjects\HelloWorld5times\HelloWorld5times\obj\Debug\HelloWorld5times.pdb
