@@ -10,6 +10,10 @@ namespace HelloWorld5times
     {
         static void Main(string[] args)
         {
+            for (int i = 1; i <= 5; i++)
+                Console.WriteLine("Hello");
+            
+
         }
     }
 }

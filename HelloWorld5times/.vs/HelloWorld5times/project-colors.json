@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bfe3cd6-6f38-4ed6-898d-36e50e84d4e2": {
+      "ProjectGuid": "5bfe3cd6-6f38-4ed6-898d-36e50e84d4e2",
+      "DisplayName": "HelloWorld5times",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
