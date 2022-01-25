@@ -1,0 +1,11 @@
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\bin\Debug\Day1Project33.exe.config
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\bin\Debug\Day1Project33.exe
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\bin\Debug\Day1Project33.pdb
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.Form1.resources
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.Properties.Resources.resources
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.csproj.GenerateResource.cache
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.exe
+F:\NH\DotNetProjects\Day1Project33\Day1Project33\obj\Debug\Day1Project33.pdb
