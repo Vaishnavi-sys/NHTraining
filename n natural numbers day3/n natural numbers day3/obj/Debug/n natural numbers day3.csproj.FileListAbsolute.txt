@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\bin\Debug\n natural numbers day3.exe.config
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\bin\Debug\n natural numbers day3.exe
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\bin\Debug\n natural numbers day3.pdb
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\obj\Debug\n natural numbers day3.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\obj\Debug\n natural numbers day3.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\obj\Debug\n natural numbers day3.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\obj\Debug\n natural numbers day3.exe
+F:\NH\DotNetProjects\n natural numbers day3\n natural numbers day3\obj\Debug\n natural numbers day3.pdb

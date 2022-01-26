@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Factors\Factors\bin\Debug\Factors.exe.config
+F:\NH\DotNetProjects\Factors\Factors\bin\Debug\Factors.exe
+F:\NH\DotNetProjects\Factors\Factors\bin\Debug\Factors.pdb
+F:\NH\DotNetProjects\Factors\Factors\obj\Debug\Factors.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Factors\Factors\obj\Debug\Factors.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Factors\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Factors\Factors\obj\Debug\Factors.exe
+F:\NH\DotNetProjects\Factors\Factors\obj\Debug\Factors.pdb

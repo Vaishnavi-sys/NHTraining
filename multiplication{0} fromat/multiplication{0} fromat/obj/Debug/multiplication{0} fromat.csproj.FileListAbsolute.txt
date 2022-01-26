@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\bin\Debug\multiplication{0} fromat.exe.config
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\bin\Debug\multiplication{0} fromat.exe
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\bin\Debug\multiplication{0} fromat.pdb
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\obj\Debug\multiplication{0} fromat.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\obj\Debug\multiplication{0} fromat.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\obj\Debug\multiplication{0} fromat.exe
+F:\NH\DotNetProjects\multiplication{0} fromat\multiplication{0} fromat\obj\Debug\multiplication{0} fromat.pdb

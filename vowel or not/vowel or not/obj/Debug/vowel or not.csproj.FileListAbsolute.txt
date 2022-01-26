@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\vowel or not\vowel or not\obj\Debug\vowel or not.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\vowel or not\vowel or not\obj\Debug\vowel or not.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\vowel or not\vowel or not\bin\Debug\vowel or not.exe.config
+F:\NH\DotNetProjects\vowel or not\vowel or not\bin\Debug\vowel or not.exe
+F:\NH\DotNetProjects\vowel or not\vowel or not\bin\Debug\vowel or not.pdb
+F:\NH\DotNetProjects\vowel or not\vowel or not\obj\Debug\vowel or not.exe
+F:\NH\DotNetProjects\vowel or not\vowel or not\obj\Debug\vowel or not.pdb
