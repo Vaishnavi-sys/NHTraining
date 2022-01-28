@@ -1,7 +1,0 @@
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\bin\Debug\Right angled Triangle.exe.config
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\bin\Debug\Right angled Triangle.exe
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\bin\Debug\Right angled Triangle.pdb
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\obj\Debug\Right angled Triangle.csproj.SuggestedBindingRedirects.cache
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\obj\Debug\Right angled Triangle.csproj.CoreCompileInputs.cache
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\obj\Debug\Right angled Triangle.exe
-F:\NH\DotNetProjects\Right angled Triangle\Right angled Triangle\obj\Debug\Right angled Triangle.pdb

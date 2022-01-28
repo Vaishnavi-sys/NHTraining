@@ -1,7 +1,0 @@
-F:\NH\DotNetProjects\Reverse number\Reverse number\bin\Debug\Reverse number.exe.config
-F:\NH\DotNetProjects\Reverse number\Reverse number\bin\Debug\Reverse number.exe
-F:\NH\DotNetProjects\Reverse number\Reverse number\bin\Debug\Reverse number.pdb
-F:\NH\DotNetProjects\Reverse number\Reverse number\obj\Debug\Reverse number.csproj.SuggestedBindingRedirects.cache
-F:\NH\DotNetProjects\Reverse number\Reverse number\obj\Debug\Reverse number.csproj.CoreCompileInputs.cache
-F:\NH\DotNetProjects\Reverse number\Reverse number\obj\Debug\Reverse number.exe
-F:\NH\DotNetProjects\Reverse number\Reverse number\obj\Debug\Reverse number.pdb

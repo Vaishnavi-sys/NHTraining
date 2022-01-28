@@ -1,8 +1,0 @@
-F:\NH\DotNetProjects\Prime or not\Prime or not\bin\Debug\Prime or not.exe.config
-F:\NH\DotNetProjects\Prime or not\Prime or not\bin\Debug\Prime or not.exe
-F:\NH\DotNetProjects\Prime or not\Prime or not\bin\Debug\Prime or not.pdb
-F:\NH\DotNetProjects\Prime or not\Prime or not\obj\Debug\Prime or not.csproj.AssemblyReference.cache
-F:\NH\DotNetProjects\Prime or not\Prime or not\obj\Debug\Prime or not.csproj.SuggestedBindingRedirects.cache
-F:\NH\DotNetProjects\Prime or not\Prime or not\obj\Debug\Prime or not.csproj.CoreCompileInputs.cache
-F:\NH\DotNetProjects\Prime or not\Prime or not\obj\Debug\Prime or not.exe
-F:\NH\DotNetProjects\Prime or not\Prime or not\obj\Debug\Prime or not.pdb
