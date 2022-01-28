@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\A power B\A power B\bin\Debug\A power B.exe.config
+F:\NH\DotNetProjects\A power B\A power B\bin\Debug\A power B.exe
+F:\NH\DotNetProjects\A power B\A power B\bin\Debug\A power B.pdb
+F:\NH\DotNetProjects\A power B\A power B\obj\Debug\A power B.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\A power B\A power B\obj\Debug\A power B.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\A power B\A power B\obj\Debug\A power B.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\A power B\A power B\obj\Debug\A power B.exe
+F:\NH\DotNetProjects\A power B\A power B\obj\Debug\A power B.pdb

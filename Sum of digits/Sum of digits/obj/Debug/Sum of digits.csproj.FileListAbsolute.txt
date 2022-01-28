@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\bin\Debug\Sum of digits.exe.config
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\bin\Debug\Sum of digits.exe
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\bin\Debug\Sum of digits.pdb
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\obj\Debug\Sum of digits.exe
+F:\NH\DotNetProjects\Sum of digits\Sum of digits\obj\Debug\Sum of digits.pdb

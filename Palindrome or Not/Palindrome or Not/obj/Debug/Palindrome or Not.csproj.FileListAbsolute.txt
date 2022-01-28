@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\bin\Debug\Palindrome or Not.exe.config
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\bin\Debug\Palindrome or Not.exe
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\bin\Debug\Palindrome or Not.pdb
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\obj\Debug\Palindrome or Not.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\obj\Debug\Palindrome or Not.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\obj\Debug\Palindrome or Not.exe
+F:\NH\DotNetProjects\Palindrome or Not\Palindrome or Not\obj\Debug\Palindrome or Not.pdb

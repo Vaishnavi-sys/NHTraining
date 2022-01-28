@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\obj\Debug\Prime using Function.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\obj\Debug\Prime using Function.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\obj\Debug\Prime using Function.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\bin\Debug\Prime using Function.exe.config
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\bin\Debug\Prime using Function.exe
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\bin\Debug\Prime using Function.pdb
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\obj\Debug\Prime using Function.exe
+F:\NH\DotNetProjects\Prime using Function\Prime using Function\obj\Debug\Prime using Function.pdb

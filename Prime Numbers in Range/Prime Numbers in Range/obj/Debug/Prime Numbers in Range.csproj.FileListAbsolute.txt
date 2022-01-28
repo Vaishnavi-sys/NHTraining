@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\obj\Debug\Prime Numbers in Range.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\obj\Debug\Prime Numbers in Range.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\obj\Debug\Prime Numbers in Range.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\bin\Debug\Prime Numbers in Range.exe.config
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\bin\Debug\Prime Numbers in Range.exe
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\bin\Debug\Prime Numbers in Range.pdb
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\obj\Debug\Prime Numbers in Range.exe
+F:\NH\DotNetProjects\Prime Numbers in Range\Prime Numbers in Range\obj\Debug\Prime Numbers in Range.pdb

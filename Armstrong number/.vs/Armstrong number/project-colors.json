@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55ac94d0-7422-417d-8500-d376a147abed": {
+      "ProjectGuid": "55ac94d0-7422-417d-8500-d376a147abed",
+      "DisplayName": "Armstrong number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
