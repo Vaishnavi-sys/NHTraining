@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\List_String\List_String\bin\Debug\List_String.exe.config
+F:\NH\DotNetProjects\List_String\List_String\bin\Debug\List_String.exe
+F:\NH\DotNetProjects\List_String\List_String\bin\Debug\List_String.pdb
+F:\NH\DotNetProjects\List_String\List_String\obj\Debug\List_String.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\List_String\List_String\obj\Debug\List_String.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\List_String\List_String\obj\Debug\List_String.exe
+F:\NH\DotNetProjects\List_String\List_String\obj\Debug\List_String.pdb

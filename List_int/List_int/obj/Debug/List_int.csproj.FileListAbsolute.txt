@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\List_int\List_int\obj\Debug\List_int.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\List_int\List_int\obj\Debug\List_int.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\List_int\List_int\bin\Debug\List_int.exe.config
+F:\NH\DotNetProjects\List_int\List_int\bin\Debug\List_int.exe
+F:\NH\DotNetProjects\List_int\List_int\bin\Debug\List_int.pdb
+F:\NH\DotNetProjects\List_int\List_int\obj\Debug\List_int.exe
+F:\NH\DotNetProjects\List_int\List_int\obj\Debug\List_int.pdb
+F:\NH\DotNetProjects\List_int\List_int\obj\Debug\List_int.csproj.AssemblyReference.cache

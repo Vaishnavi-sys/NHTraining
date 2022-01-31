@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Array\Array\bin\Debug\Array.exe.config
+F:\NH\DotNetProjects\Array\Array\bin\Debug\Array.exe
+F:\NH\DotNetProjects\Array\Array\bin\Debug\Array.pdb
+F:\NH\DotNetProjects\Array\Array\obj\Debug\Array.exe
+F:\NH\DotNetProjects\Array\Array\obj\Debug\Array.pdb
