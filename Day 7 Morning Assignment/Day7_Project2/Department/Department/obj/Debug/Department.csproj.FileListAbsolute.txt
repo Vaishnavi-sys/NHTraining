@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\obj\Debug\Department.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\bin\Debug\Department.exe.config
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\bin\Debug\Department.exe
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\bin\Debug\Department.pdb
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\obj\Debug\Department.exe
+F:\NH\DotNetProjects\Day 7 Morning Assignment\Day7_Project2\Department\Department\obj\Debug\Department.pdb

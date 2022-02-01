@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5db49662-976a-4c3e-81bb-4e2e9c4682bc": {
+      "ProjectGuid": "5db49662-976a-4c3e-81bb-4e2e9c4682bc",
+      "DisplayName": "Department",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

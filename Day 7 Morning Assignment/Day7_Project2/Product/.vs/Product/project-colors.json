@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e60c88cf-f9d4-4ecc-ba9d-f2cc67c3c05d": {
+      "ProjectGuid": "e60c88cf-f9d4-4ecc-ba9d-f2cc67c3c05d",
+      "DisplayName": "Product",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
