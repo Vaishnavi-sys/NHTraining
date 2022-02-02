@@ -57,7 +57,7 @@ namespace Day8Project2
                          select e;
             result.ToList().ForEach(e => Console.WriteLine($"id={e.id}, name={e.name}, salary={e.salary}"));
 
-            Console.WriteLine("*****************************************************");
+            Console.WriteLine("**********************************************************");
 
             Console.ReadLine();
 
