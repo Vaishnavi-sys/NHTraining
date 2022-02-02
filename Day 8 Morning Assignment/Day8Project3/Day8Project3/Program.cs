@@ -37,7 +37,7 @@ namespace Day8Project3
             for (int i = 0; i < product.Count; i++)
             {
                 if (product[i].price > 500)
-                    Console.WriteLine($"Name={product[i].name}, Brand={product[i].brand}");
+                    Console.WriteLine($"id={product[i].id}, name={product[i].name}, price={product[i].price}, Brand={product[i].brand}");
             }
 
             Console.WriteLine("*****************************************************************************");
@@ -46,14 +46,14 @@ namespace Day8Project3
             foreach(var p in product)
             {
                 if (p.price > 500)
-                    Console.WriteLine($"Name={p.name}, Brand={p.brand}");
+                    Console.WriteLine($"id={p.id},name={p.name}, Price={p.price}, Brand={p.brand}");
 
             }
 
             Console.WriteLine("*****************************************************************************");
 
             //Lambda Expression
-            product.ToList().Where(p=>p.price>500).ToList().ForEach(p=>Console.WriteLine($"Name={p.name}, Brand={p.brand}"));
+            product.ToList().Where(p=>p.price>500).ToList().ForEach(p=>Console.WriteLine($"id={p.id},name={p.name}, Price={p.price}, Brand={p.brand}"));
 
             Console.WriteLine("*****************************************************************************");
 
@@ -61,7 +61,7 @@ namespace Day8Project3
             var result = from p in product
                          where p.price > 500
                          select p;
-            result.ToList().ForEach(p => Console.WriteLine($"Name={p.name}, Brand={p.brand}"));
+            result.ToList().ForEach(p => Console.WriteLine($"id={p.id},name={p.name}, Price={p.price}, Brand={p.brand}"));
 
             Console.WriteLine("*****************************************************************************");
 

@@ -18,11 +18,11 @@ namespace Day7_Project6
         {
             Customer[] customer = new Customer[]
                 {
-                    new Customer() { id = 1, name ="john", points =95},
-                    new Customer() { id = 2, name ="prasad",points=25},
-                    new Customer() { id = 3, name ="sai",points=10},
-                    new Customer() { id = 4, name ="uday",points=64},
-                    new Customer() { id = 5, name ="jp",points=40}
+                    new Customer() { id = 1, name ="abhi", points =26},
+                    new Customer() { id = 2, name ="Ram",points=29},
+                    new Customer() { id = 3, name ="Jaya",points=67},
+                    new Customer() { id = 4, name ="Aravind",points=10},
+                    new Customer() { id = 5, name ="Shiva",points=40}
                 };
 
             Console.WriteLine("===========================================================");
