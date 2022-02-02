@@ -59,7 +59,7 @@ namespace Day8Project3
 
             // LinQ 
             var result = from p in product
-                         where p.price > 500
+                         where p.price >500
                          select p;
             result.ToList().ForEach(p => Console.WriteLine($"id={p.id},name={p.name}, Price={p.price}, Brand={p.brand}"));
 
