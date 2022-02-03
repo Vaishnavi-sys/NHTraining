@@ -21,7 +21,7 @@ namespace Linear_Search
 
             if (res>0)
 
-                Console.WriteLine("The target value " + p + "is found at position " + res);
+                Console.WriteLine("The target value " + p + " is found at position " + res);
             else
                 Console.WriteLine("Target Not Found");
 

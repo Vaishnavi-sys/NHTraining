@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+F:\NH\DotNetProjects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
