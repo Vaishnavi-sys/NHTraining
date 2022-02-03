@@ -11,17 +11,17 @@ namespace Linear_Search
         static void Main(string[] args)
         {
             Search1 search = new Search1();
-            int[] search_list = new int[] { 3, 5, 12, 5, 28, 16, 20, 35, 9 };
+            int[] search_list = new int[] { 3, 5, 12, 5, 28, 16, 20, 35, 9, 40};
 
-            int n, res;
+            int p, res;
             Console.WriteLine("Enter a value to search: ");
-            n = Convert.ToInt32(Console.ReadLine());
+            p = Convert.ToInt32(Console.ReadLine());
 
-            res = search.LinearSearch(search_list, n);
+            res = search.LinearSearch(search_list, p);
 
-            if (n != res)
+            if (res>0)
 
-                Console.WriteLine("The target value " + n + "is found at position " + res);
+                Console.WriteLine("The target value " + p + "is found at position " + res);
             else
                 Console.WriteLine("Target Not Found");
 

@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//********************************************
+// Author : Nanam Vaishnavi
+// Purpose : Employee Class Constructor 
+//********************************************
 
 namespace Day9Project4
 {
@@ -17,7 +21,7 @@ namespace Day9Project4
         {
             this.id = 0;
             this.name = null;
-            this.salary = 0;
+
         }
 
         public Employee(int eid, string ename, int esalary)
@@ -48,8 +52,7 @@ namespace Day9Project4
     {
         static void Main(string[] args)
         {
-            Employee emp = new Employee();
-            emp.ReadData();
+            Employee emp = new Employee(1, "Vaishnavi", 50000);
             emp.PrintData();
 
 
