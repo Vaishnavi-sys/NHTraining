@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\bin\Debug\Interface.exe.config
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\bin\Debug\Interface.exe
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\bin\Debug\Interface.pdb
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\obj\Debug\Interface.exe
+F:\NH\DotNetProjects\Day 11 Assignment\Interface\Interface\obj\Debug\Interface.pdb

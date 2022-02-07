@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\bin\Debug\Property Example.exe.config
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\bin\Debug\Property Example.exe
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\bin\Debug\Property Example.pdb
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\obj\Debug\Property Example.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\obj\Debug\Property Example.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\obj\Debug\Property Example.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\obj\Debug\Property Example.exe
+F:\NH\DotNetProjects\Day 11 Assignment\Property Example\Property Example\obj\Debug\Property Example.pdb

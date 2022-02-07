@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\bin\Debug\EmployeeProperties.exe.config
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\bin\Debug\EmployeeProperties.exe
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\bin\Debug\EmployeeProperties.pdb
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\obj\Debug\EmployeeProperties.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\obj\Debug\EmployeeProperties.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\obj\Debug\EmployeeProperties.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\obj\Debug\EmployeeProperties.exe
+F:\NH\DotNetProjects\Day 11 Assignment\EmployeeProperties\EmployeeProperties\obj\Debug\EmployeeProperties.pdb
