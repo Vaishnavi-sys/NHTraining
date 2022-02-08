@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// **************************************************************************
+// Author : Nanam Vaishnavi
+// Purpose : class IShape  including Square, Circle,Rectangle,Triangle
+// ***************************************************************************
 
 namespace Interface
 {
