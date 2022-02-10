@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// **************************************************
+// Author : Nanam Vaishnavi
+// Purpose : To illustrate normal properties
+// ***************************************************
 
 namespace Day14Project_2
 {
