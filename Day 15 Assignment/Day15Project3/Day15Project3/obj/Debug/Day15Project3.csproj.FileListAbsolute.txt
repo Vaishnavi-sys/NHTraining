@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\bin\Debug\Day15Project3.exe.config
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\bin\Debug\Day15Project3.exe
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\bin\Debug\Day15Project3.pdb
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.exe
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.pdb
+F:\NH\DotNetProjects\Day 15 Assignment\Day15Project3\Day15Project3\obj\Debug\Day15Project3.csproj.AssemblyReference.cache
