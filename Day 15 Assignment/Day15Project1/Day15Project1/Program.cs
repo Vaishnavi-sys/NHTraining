@@ -54,7 +54,8 @@ namespace Day15Project1
             Console.WriteLine(File.Exists(CurrentFile) ? "File Exists.": "File doesn't exists");
             Console.ReadLine();*/
 
-            Console.WriteLine(File.GetLastAccessTime("F:\\NH\\DotNetProjects\\Day 15 Assignment\\Vaishu.txt"));
+            File.Move("F:\\NH\\DotNetProjects\\Day 15 Assignment\\Vaishu.txt", "G:\\New folder\\Vaishu.txt");
+            Console.WriteLine("File Moved to other folder");
             Console.ReadLine();
 
         }
