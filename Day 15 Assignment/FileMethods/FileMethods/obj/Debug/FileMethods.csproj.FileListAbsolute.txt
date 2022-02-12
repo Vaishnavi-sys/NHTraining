@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\obj\Debug\FileMethods.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\obj\Debug\FileMethods.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\bin\Debug\FileMethods.exe.config
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\bin\Debug\FileMethods.exe
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\bin\Debug\FileMethods.pdb
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\obj\Debug\FileMethods.exe
+F:\NH\DotNetProjects\Day 15 Assignment\FileMethods\FileMethods\obj\Debug\FileMethods.pdb

@@ -1,0 +1,7 @@
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\bin\Debug\ConsoleApp123.exe.config
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\bin\Debug\ConsoleApp123.exe
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\bin\Debug\ConsoleApp123.pdb
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\obj\Debug\ConsoleApp123.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\obj\Debug\ConsoleApp123.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\obj\Debug\ConsoleApp123.exe
+F:\NH\DotNetProjects\Day 15 Assignment\ConsoleApp123\ConsoleApp123\obj\Debug\ConsoleApp123.pdb
