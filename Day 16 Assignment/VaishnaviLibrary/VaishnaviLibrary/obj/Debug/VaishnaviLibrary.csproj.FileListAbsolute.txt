@@ -1,0 +1,5 @@
+F:\NH\DotNetProjects\Day 16 Assignment\VaishnaviLibrary\VaishnaviLibrary\bin\Debug\VaishnaviLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\VaishnaviLibrary\VaishnaviLibrary\bin\Debug\VaishnaviLibrary.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\VaishnaviLibrary\VaishnaviLibrary\obj\Debug\VaishnaviLibrary.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 16 Assignment\VaishnaviLibrary\VaishnaviLibrary\obj\Debug\VaishnaviLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\VaishnaviLibrary\VaishnaviLibrary\obj\Debug\VaishnaviLibrary.pdb
