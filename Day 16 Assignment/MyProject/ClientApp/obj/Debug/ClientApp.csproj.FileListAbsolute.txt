@@ -1,0 +1,14 @@
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\ClientApp.exe.config
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\ClientApp.exe
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\ClientApp.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\obj\Debug\ClientApp.exe
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\obj\Debug\ClientApp.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\PublicLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\VaishnaviLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\VaishuLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\PublicLibrary.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\bin\Debug\VaishuLibrary.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3d89bfd-03b1-41df-92d3-22d71c18ac63": {
+      "ProjectGuid": "b3d89bfd-03b1-41df-92d3-22d71c18ac63",
+      "DisplayName": "VaishuLibrary",
+      "ColorIndex": 0
+    },
+    "efa65b37-11f0-4e51-9252-4809651ce1ab": {
+      "ProjectGuid": "efa65b37-11f0-4e51-9252-4809651ce1ab",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "5850e334-a817-40cf-bbc7-36a0b95ef438": {
+      "ProjectGuid": "5850e334-a817-40cf-bbc7-36a0b95ef438",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    },
+    "f87e1e25-965b-4bc7-90e8-002c321eff92": {
+      "ProjectGuid": "f87e1e25-965b-4bc7-90e8-002c321eff92",
+      "DisplayName": "MyWindowApp",
+      "ColorIndex": 3
+    },
+    "8926e1f9-2046-4db9-8985-a298f3bf9104": {
+      "ProjectGuid": "8926e1f9-2046-4db9-8985-a298f3bf9104",
+      "DisplayName": "MyWindowApp1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

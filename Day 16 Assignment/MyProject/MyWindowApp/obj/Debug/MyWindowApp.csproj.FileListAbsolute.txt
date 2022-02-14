@@ -1,0 +1,16 @@
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\MyWindowApp.exe.config
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\MyWindowApp.exe
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\MyWindowApp.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\PublicLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\VaishuLibrary.dll
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\PublicLibrary.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\bin\Debug\VaishuLibrary.pdb
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.Form1.resources
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.Properties.Resources.resources
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.csproj.GenerateResource.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.csproj.CopyComplete
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.exe
+F:\NH\DotNetProjects\Day 16 Assignment\MyProject\MyWindowApp\obj\Debug\MyWindowApp.pdb
