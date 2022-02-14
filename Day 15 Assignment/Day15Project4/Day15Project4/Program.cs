@@ -31,7 +31,7 @@ namespace Day15Project4
 
 
 
-            Console.WriteLine("File reading done");
+           Console.WriteLine("File reading done");
             Console.ReadLine();
 
         }
