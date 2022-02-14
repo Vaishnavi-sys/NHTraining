@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Threading.Tasks;
+// **********************************
+// Author : Nanam Vaishnavi
+// Purpose : Modify the quiz application to save the name and score in the flat file.
+//*****************************************
 
 namespace Day15Project5
 {
@@ -73,7 +77,7 @@ namespace Day15Project5
             //sr.Close();
             //fs.Close();
 
-            /*StreamWriter sr = new StreamWriter("C:\\Users\\Pranay Kashyap\\Desktop", true);
+            /*StreamWriter sr = new StreamWriter("C:\\Users\\Vaishnavi\\Desktop", true);
             name = Console.ReadLine();
             sr.WriteLine(name);
             score = Convert.ToInt32(Console.ReadLine());
