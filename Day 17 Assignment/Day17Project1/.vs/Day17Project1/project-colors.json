@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e943216d-af6a-4794-9e99-32dd8e7b4091": {
+      "ProjectGuid": "e943216d-af6a-4794-9e99-32dd8e7b4091",
+      "DisplayName": "Day17Project1",
+      "ColorIndex": 0
+    },
+    "bcd0520c-a040-4759-95cb-e6e8239563e1": {
+      "ProjectGuid": "bcd0520c-a040-4759-95cb-e6e8239563e1",
+      "DisplayName": "VaishnaviLibrary",
+      "ColorIndex": 1
+    },
+    "b61f9404-4e3b-4b13-9933-f75f23eec01e": {
+      "ProjectGuid": "b61f9404-4e3b-4b13-9933-f75f23eec01e",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

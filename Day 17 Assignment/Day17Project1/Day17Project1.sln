@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17Project1", "Day17Project1\Day17Project1.csproj", "{E943216D-AF6A-4794-9E99-32DD8E7B4091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaishnaviLibrary", "VaishnaviLibrary\VaishnaviLibrary.csproj", "{BCD0520C-A040-4759-95CB-E6E8239563E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLibrary", "PublicLibrary\PublicLibrary.csproj", "{B61F9404-4E3B-4B13-9933-F75F23EEC01E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E943216D-AF6A-4794-9E99-32DD8E7B4091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E943216D-AF6A-4794-9E99-32DD8E7B4091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E943216D-AF6A-4794-9E99-32DD8E7B4091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD0520C-A040-4759-95CB-E6E8239563E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD0520C-A040-4759-95CB-E6E8239563E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD0520C-A040-4759-95CB-E6E8239563E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD0520C-A040-4759-95CB-E6E8239563E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61F9404-4E3B-4B13-9933-F75F23EEC01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61F9404-4E3B-4B13-9933-F75F23EEC01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61F9404-4E3B-4B13-9933-F75F23EEC01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61F9404-4E3B-4B13-9933-F75F23EEC01E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
