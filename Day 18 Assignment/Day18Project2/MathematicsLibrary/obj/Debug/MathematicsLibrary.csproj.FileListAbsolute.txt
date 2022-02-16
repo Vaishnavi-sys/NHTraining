@@ -1,0 +1,5 @@
+F:\NH\DotNetProjects\Day 18 Assignment\Day18Project2\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+F:\NH\DotNetProjects\Day 18 Assignment\Day18Project2\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+F:\NH\DotNetProjects\Day 18 Assignment\Day18Project2\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 18 Assignment\Day18Project2\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+F:\NH\DotNetProjects\Day 18 Assignment\Day18Project2\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
