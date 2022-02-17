@@ -82,16 +82,15 @@ namespace MathematicsLibrary.Tests
             //Assert
             Assert.AreEqual(expected, actual);
         }
-
         [TestMethod()]
-        public void AddTest()
+        public void IsPalindrome()
         {
             // Arrange
-            int a = 6, b = 8;
-            int expected = 14;
+            int n = 2121;
+            bool expected = true;
 
             //Act
-            int actual = Algebra.Add(a, b);
+            bool actual = Algebra.IsPalindrome(n);
 
             //Assert
             Assert.AreEqual(expected, actual);

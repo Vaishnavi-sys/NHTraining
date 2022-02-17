@@ -1,7 +1,6 @@
 F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\bin\Debug\MyApp.exe.config
 F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\bin\Debug\MyApp.exe
 F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\bin\Debug\MyApp.pdb
-F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
 F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
 F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\obj\Debug\MyApp.Properties.Resources.resources
 F:\NH\DotNetProjects\Day 18 Assignment\Day18project3\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
