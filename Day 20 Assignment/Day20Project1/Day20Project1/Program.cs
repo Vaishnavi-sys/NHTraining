@@ -10,36 +10,41 @@ using System.Threading.Tasks;
 
 namespace Day20Project1
 {
-    internal class Operations
+    public delegate void Operations(int a, int b);
+    internal class Program
     {
-        public delegate void add(int a, int b);
-        public delegate void mul(int a, int b);
-
-        /// <summary>
-        /// Adding 2 numbers
-        /// </summary>
-        
-        public void Sum(int a, int b)
+        public static void Add(int a, int b)
         {
-            Console.WriteLine("(80+20) = {0}", a+b);
+            Console.WriteLine( a + b);
         }
-         /// <summary>
-         /// Multiplication
-         /// </summary>
-        
-        public void Multiply(int a, int b)
+
+        public static void Mul(int a, int b)
         {
-            Console.WriteLine("(8*6) = {0}", a*b);
+            Console.WriteLine( a * b);
         }
-        public static void Main(string[] args)
+
+        public static void Div(int a, int b)
         {
-            Operations op = new Operations();
+            Console.WriteLine(a/b);
+        }
+        static void Main(string[] args)
+        {
+            Operations op = new Operations(Add);
 
-            add obj1 = new add(op.Sum);
-            mul obj2 = new mul(op.Multiply);
+            op += Div;
+            op += Mul;
 
-            obj1(80, 20);
-            obj2(8, 6);
+            //15,16
+            op(15, 16);
+            Console.WriteLine("==========================");
+
+            // 12,13
+            op(12, 13);
+            Console.WriteLine("===========================");
+
+            // 14,18
+            op(14, 18);
+            Console.WriteLine("===========================");
 
             Console.ReadLine();
         }       
