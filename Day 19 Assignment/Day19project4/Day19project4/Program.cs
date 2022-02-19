@@ -16,25 +16,34 @@ namespace Day19project4
     {
         static void Main(string[] args)
         {
+            int id;
             Console.WriteLine("Enter  ID: ");
-            int n = Convert.ToInt32(Console.ReadLine());
+            id = Convert.ToInt32(Console.ReadLine());
 
 
-            XmlDocument file = new XmlDocument();
-            file.Load("G:\\XML files\\Project4.xml");
+            XmlDocument doc= new XmlDocument();
+            doc.Load("G:\\XML files\\Project1.xml");
 
 
-            foreach (XmlNode node in file.DocumentElement.ChildNodes)
+            foreach (XmlNode node in doc.DocumentElement.ChildNodes)
             {
-                foreach (XmlNode node2 in node.ChildNodes)
+                bool isMatch = false;
+                foreach (XmlNode cnode in node.ChildNodes)
                 {
-                    bool id = node2.Name == "ID";
-                    bool isIndex = (id == true ? Convert.ToInt32(node2.InnerText) : 0) == n;
-                    if (id && isIndex)
+                    if (cnode.Name == "ID")
                     {
-                        Console.WriteLine($"Name of Employee: {node2.NextSibling.InnerText}.");
+                        if (cnode.InnerText == id.ToString())
+                        {
+                            isMatch = true;
+                        }
                     }
-                }
+                    if(cnode.Name == "Name" && isMatch)
+                    {
+                        Console.WriteLine(cnode.InnerText);
+                        break;
+                    }
+                        
+                 }
             }
             Console.ReadLine();
 
