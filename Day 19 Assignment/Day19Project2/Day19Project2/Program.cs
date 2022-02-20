@@ -17,18 +17,19 @@ namespace Day19Project2
         {
             XmlDocument doc = new XmlDocument();
             doc.Load("G:\\XML files\\project2.xml");
-
-            //XmlNode node = doc.DocumentElement.SelectSingleNode("/Employees/Employee");
-
-            foreach (XmlNode node in doc.DocumentElement.ChildNodes)
+            foreach(XmlNode node in doc.DocumentElement.ChildNodes)
             {
-                string text = node.InnerText; //or loop through its children as well
-
-                Console.WriteLine(text);
-
+                foreach(XmlNode childNode in node.ChildNodes)
+                {
+                    if(childNode.Name == "Name")
+                    {
+                        Console.WriteLine(childNode.InnerText);
+                    }
+                }
             }
             Console.ReadLine();
         }
+
 
     }
 }

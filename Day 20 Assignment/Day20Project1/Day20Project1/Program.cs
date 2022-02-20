@@ -11,21 +11,22 @@ using System.Threading.Tasks;
 namespace Day20Project1
 {
     public delegate void Operations(int a, int b);
+
     internal class Program
     {
         public static void Add(int a, int b)
         {
-            Console.WriteLine( a + b);
+            Console.WriteLine(a + b);
         }
 
         public static void Mul(int a, int b)
         {
-            Console.WriteLine( a * b);
+            Console.WriteLine(a * b);
         }
 
         public static void Div(int a, int b)
         {
-            Console.WriteLine(a/b);
+            Console.WriteLine(a / b);
         }
         static void Main(string[] args)
         {
@@ -47,6 +48,7 @@ namespace Day20Project1
             Console.WriteLine("===========================");
 
             Console.ReadLine();
-        }       
+        }
     }
+
 }
