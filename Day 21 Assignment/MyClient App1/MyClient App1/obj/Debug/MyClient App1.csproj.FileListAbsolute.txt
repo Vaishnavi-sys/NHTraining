@@ -1,0 +1,8 @@
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\bin\Debug\MyClient App1.exe.config
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\bin\Debug\MyClient App1.exe
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\bin\Debug\MyClient App1.pdb
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\obj\Debug\MyClient App1.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\obj\Debug\MyClient App1.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\obj\Debug\MyClient App1.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\obj\Debug\MyClient App1.exe
+F:\NH\DotNetProjects\Day 21 Assignment\MyClient App1\MyClient App1\obj\Debug\MyClient App1.pdb
