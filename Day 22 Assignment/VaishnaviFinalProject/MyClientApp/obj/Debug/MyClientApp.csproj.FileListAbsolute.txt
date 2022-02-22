@@ -1,0 +1,13 @@
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\BusinessLogicLayer.dll
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\BusinessLogicLayer.pdb
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\DataAccessLayer.dll
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\MyClientApp\bin\Debug\DataAccessLayer.pdb

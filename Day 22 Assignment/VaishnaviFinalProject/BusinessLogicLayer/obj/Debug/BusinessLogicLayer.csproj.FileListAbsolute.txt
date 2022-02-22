@@ -1,0 +1,9 @@
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\NH\DotNetProjects\Day 22 Assignment\VaishnaviFinalProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
